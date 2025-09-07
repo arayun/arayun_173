@@ -53,21 +53,10 @@ This process serves two core functions:
 
 ## License
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-
-
-**Download**  
-- [Zenodo DOI](https://doi.org/10.5281/zenodo.17065675)  
- 
-
----
-
-**Author**  
-ARAYUN_173 (no personal attribution)
+https://creativecommons.org/licenses/by/4.0/
 
 
 
-## License
-This repository and its contents are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-Link: https://creativecommons.org/licenses/by/4.0/
+
 
 
