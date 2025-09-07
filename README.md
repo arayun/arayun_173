@@ -23,6 +23,6 @@ ARAYUN_173 (no personal attribution)
 
 ## License
 This repository and its contents are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
+Link: https://creativecommons.org/licenses/by/4.0/
 
 
