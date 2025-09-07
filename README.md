@@ -18,3 +18,11 @@ The protocol aims to provide verifiable, reproducible safeguards against unpredi
 
 **Author**  
 ARAYUN_173 (no personal attribution)
+
+
+
+## License
+This repository and its contents are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+
+
