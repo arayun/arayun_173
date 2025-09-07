@@ -43,7 +43,19 @@ This process serves two core functions:
 
 ## Downloads
 - [Zenodo DOI](https://doi.org/10.5281/zenodo.17065675)  
+
  
+## Research Evidence (YouTube)
+In addition to academic publications (Zenodo,GitHub), selected research evidence and explanatory material is also published on the **official ARAYUN_173 YouTube channel**.  
+
+This section includes:  
+- Video explainers of the ARAYUN_173 protocol  
+- Recorded presentations on cognitive drift and logical entropy  
+- Demonstrations of applied coherence resets  
+- Supplementary material not covered in text publications  
+
+[Visit the YouTube Channel](https://www.youtube.com/channel/UC4iOlRRBCjpis3DrnliuJBw)  
+
 ---
 
 ## Author
